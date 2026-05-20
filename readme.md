@@ -66,7 +66,7 @@ Food Journal Checker 是一款基于 React Native 与 Expo 开发的本地饮食
 1. Clone the repository:
    ```
    git clone https://github.com/fengrenyuanhe0-collab/foodjournalchecker.git
-cd foodjournalchecker
+   cd foodjournalchecker
    ```
 
 2. Install dependencies:
@@ -80,6 +80,7 @@ cd foodjournalchecker
    ```
 
 4. Scan the QR code with the Expo Go app on your mobile device to run the application.
+
 
 # Usage | 使用说明
 
